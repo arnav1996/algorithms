@@ -7,7 +7,7 @@
  * printCutRodSolution: prints the optimal solution with size of cuts.
  */
 
-package dynamicprogramming;
+
 
 public class RodCutting {
 
